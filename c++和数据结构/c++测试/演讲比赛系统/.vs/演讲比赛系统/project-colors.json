@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0eb54fb2-478e-4fce-954a-5572b8eb9bd5": {
+      "ProjectGuid": "0eb54fb2-478e-4fce-954a-5572b8eb9bd5",
+      "DisplayName": "演讲比赛系统",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

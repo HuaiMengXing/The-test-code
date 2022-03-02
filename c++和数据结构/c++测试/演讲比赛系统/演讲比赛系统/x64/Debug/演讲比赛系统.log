@@ -1,0 +1,5 @@
+﻿  speechManager.cpp
+D:\c++和数据结构\c++测试\演讲比赛系统\演讲比赛系统\speechManager.cpp(267,31): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  演讲比赛.cpp
+  正在生成代码...
+  演讲比赛系统.vcxproj -> D:\c++和数据结构\c++测试\演讲比赛系统\x64\Debug\演讲比赛系统.exe
